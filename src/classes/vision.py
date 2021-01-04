@@ -43,9 +43,6 @@ class FaceClassifier():
 
             return v
 
-
-"""
-
 class TrafficClassifier():
 
     def __init__(self, classifier_path):
@@ -105,4 +102,3 @@ class TrafficClassifier():
     def get_state(self):
         return self.__state
 
-"""
