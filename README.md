@@ -4,5 +4,13 @@ autoCar was an attempt at a miniature self driving car. It used a Haar Cascade C
 # Images of the Car
 ![front](https://i.imgur.com/XnsA8ax.jpg)
 
+![top](https://i.imgur.com/pfoLEP6.jpeg)
+
+![side](https://i.imgur.com/dW6fAvX.jpeg)
+
+![cam](https://i.imgur.com/3ZGAxGP.jpg)
+
+![training](https://i.imgur.com/eJ4mwFH.jpg)
+
 ### Credits
 This project was inspired by Zheng Wang's [similar project](https://zhengludwig.wordpress.com/projects/self-driving-rc-car/) using an RC Car and was extended with some features removed to be run on a car that I made myself
